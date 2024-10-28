@@ -7,7 +7,7 @@ Este é um projeto básico de aplicação Angular, desenvolvido com o propósito
  O Jornada Milhas é uma aplicação Angular focada na criação de uma interface de usuário utilizando componentes do Angular Material. Neste projeto, exploramos vários componentes, como cards, botões, ícones, e toggles, para construir uma interface que simula a página de busca e exibição de promoções de passagens aéreas.
 ## Tecnologias
 
-**Front-end:** Angular,Angular Material, SCSS
+**Front-end:** Angular, Angular Material, SCSS
 
 Framework principal para desenvolvimento da aplicação. Angular Material: Biblioteca de componentes UI, utilizada para facilitar a criação de uma interface moderna e responsiva.
 
