@@ -1,4 +1,4 @@
-Jornada Milhas ✈️
+#Jornada Milhas ✈️
 Este é um projeto básico de aplicação Angular, desenvolvido com o propósito de aprender e explorar o uso dos componentes do Angular Material. O aplicativo não possui funcionalidades específicas implementadas, mas serve como um exercício prático para entender como configurar e utilizar os recursos do Angular Material.
 
 Sobre o Projeto
